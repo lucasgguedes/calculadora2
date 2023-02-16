@@ -27,14 +27,11 @@ style * {
     cursor: pointer;
     background-color: rgb(31, 31, 31);
     border: none;
-    color: #ffffff;
+    color: #e40c0c;
     margin: 2px;
   }
   
-  .button:hover {
-    background-color: black;
-  }
-  
+   
   #resultado {
     width: 207px;
     background-color: white;
@@ -45,4 +42,3 @@ style * {
     text-align: right;
     padding: 5px;
   }
-  
